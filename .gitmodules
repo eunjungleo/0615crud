@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = blog
+  url = https://github.com/ziuyang/0615crud.git
